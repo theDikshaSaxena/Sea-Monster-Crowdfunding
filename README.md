@@ -24,7 +24,8 @@ We can probably have a drop down or buttons to pick the stats and include more s
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/5hCitm7' title='Video Walkthrough- Diksha Saxena- Prework' width='' alt='Video Walkthrough- Diksha Saxena- Prework' />
+<!-- <img src='https://imgur.com/gallery/5hCitm7' title='Video Walkthrough- Diksha Saxena- Prework' width='' alt='VideoWalkthrough.gif' /> -->
+![Video Walkthrough- Diksha Saxena- Prework](https://imgur.com/gallery/5hCitm7)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
